@@ -1,0 +1,17 @@
+/Volumes/Working/Source_Demo/Backup/DemoTest/Demo/DataAccess/bin/Debug/netcoreapp2.1/DataAccess.deps.json
+/Volumes/Working/Source_Demo/Backup/DemoTest/Demo/DataAccess/bin/Debug/netcoreapp2.1/DataAccess.dll
+/Volumes/Working/Source_Demo/Backup/DemoTest/Demo/DataAccess/bin/Debug/netcoreapp2.1/DataAccess.pdb
+/Volumes/Working/Source_Demo/Backup/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csprojAssemblyReference.cache
+/Volumes/Working/Source_Demo/Backup/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Volumes/Working/Source_Demo/Backup/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfoInputs.cache
+/Volumes/Working/Source_Demo/Backup/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfo.cs
+/Volumes/Working/Source_Demo/Backup/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.dll
+/Volumes/Working/Source_Demo/Backup/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.pdb
+/Volumes/Working/Source_Demo/DemoTest/Demo/DataAccess/bin/Debug/netcoreapp2.1/DataAccess.deps.json
+/Volumes/Working/Source_Demo/DemoTest/Demo/DataAccess/bin/Debug/netcoreapp2.1/DataAccess.dll
+/Volumes/Working/Source_Demo/DemoTest/Demo/DataAccess/bin/Debug/netcoreapp2.1/DataAccess.pdb
+/Volumes/Working/Source_Demo/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Volumes/Working/Source_Demo/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfoInputs.cache
+/Volumes/Working/Source_Demo/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfo.cs
+/Volumes/Working/Source_Demo/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.dll
+/Volumes/Working/Source_Demo/DemoTest/Demo/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.pdb
